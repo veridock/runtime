@@ -49,7 +49,7 @@
 ```
 
 #### Każda Aplikacja To:
-- **Jeden plik SVG** (500MB pojemności)
+- **Jeden plik SVG** (do 500MB pojemności na plik)
 - **Działanie offline** (Service Worker)
 - **Instalacja na urządzeniach** (PWA Manifest)
 - **Brak serwerów** - uruchamiasz lokalnie lub z pendrive'a
@@ -188,11 +188,8 @@ Dodajesz nowe możliwości AI stopniowo, bez przebudowy systemu.
 3. **Pilot Program** - wdrożenie w jednym dziale
 4. **Skalowanie** - rozszerzenie na całą organizację
 
-### Kontakt
-📧 **E-mail:** ai@veridock.com  
-📞 **Telefon:** +48 XXX XXX XXX  
-🌐 **Demo:** [veridock-ai-demo.svg](https://demo.veridock.com)
-
++ [linkedin.com/in/tom-sapletta-com/](https://www.linkedin.com/in/tom-sapletta-com/)
+  
 ---
 
 **VeriDOCK AI - Twoja Niezależność Technologiczna Zaczyna Się Dziś**
